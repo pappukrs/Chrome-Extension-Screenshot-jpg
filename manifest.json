@@ -1,0 +1,12 @@
+{
+    "name": "Screenshot Extension",
+    "version": "1.0",
+    "description": "Take a screenshot and download it in JPG format",
+    "manifest_version": 3,
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
+  
